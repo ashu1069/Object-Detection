@@ -1,5 +1,5 @@
 # Object-Detection
-##Object Detection Methods
+## Object Detection Methods
 
 [1] RCNN [PDF](https://arxiv.org/abs/1311.2524)
 
@@ -13,7 +13,7 @@
 
 [6] YOLO [PDF](https://arxiv.org/abs/1506.02640)
 
-##Underwater Mine-like Object Detection
+## Underwater Mine-like Object Detection
 
 [1] An Underwater Taarget Detection system for Elecctro optical Imagery Data [Paper](https://ieeexplore.ieee.org/iel5/5412664/5422059/05422221.pdf?casa_token=CaNO_4hVYekAAAAA:Sp5o5ubr-oZgZ5jMIFG_eOkiTpLmqfb7lQSuujAdBpezqvJqwiH3m-bp8YWhzdsS3hZVs3ofaQc)
 
@@ -23,12 +23,18 @@
 
 [4] Mine-like Object Sensing in Sonar Imagery with a compact Deep LEarning architecture for scarce data [Paper](https://ieeexplore.ieee.org/abstract/document/8945982)
 
-##Object Detection in High-resolution images
+## Object Detection in High-resolution images
 
 [1] Fast and accurate object detection in high resolution 4K and 8K video using GPUs [PDF](https://users.ece.cmu.edu/~franzf/papers/hpec_2018_vr.pdf)
 
 [2] Object detection algorithm for high resolution images based on convolutional neural network and multiscale processing [PDF](http://ceur-ws.org/Vol-2864/paper12.pdf)
 
 [3] Pre-locate net for object detection in high-resolution images [Paper](https://www.sciencedirect.com/science/article/pii/S1000936121003940)
+
+[4] Dynamic Zoom-in Network for Fast Object Detection in Large Images [PDF](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a508d19a-9042-4965-936e-769e30e0647a/Gao_Dynamic_Zoom-In_Network_CVPR_2018_paper.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220606%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220606T111133Z&X-Amz-Expires=86400&X-Amz-Signature=90654fd67b114dfb03b36b7b6ad610e62b89eb9803e22ade5353d3390c1083c1&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Gao_Dynamic_Zoom-In_Network_CVPR_2018_paper.pdf%22&x-id=GetObject)
+
+[5] Object Detection in Very High-Resolution Aerial Images Using One-Stage Densely Connected Feature Pyramid Network [PDF](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b9ef5789-b165-4781-9492-caa2840b114b/sensors-18-03341-v2.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220606%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220606T111246Z&X-Amz-Expires=86400&X-Amz-Signature=ebd90ac310727322092c3aac7fa136fbf32169c472a29c7909bb9743c304dee5&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22sensors-18-03341-v2.pdf%22&x-id=GetObject)
+
+
 
 

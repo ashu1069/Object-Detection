@@ -25,4 +25,10 @@
 
 **Object Detection in High-resolution images**
 
-[1] 
+[1] Fast and accurate object detection in high resolution 4K and 8K video using GPUs [PDF](https://users.ece.cmu.edu/~franzf/papers/hpec_2018_vr.pdf)
+
+[2] Object detection algorithm for high resolution images based on convolutional neural network and multiscale processing [PDF](http://ceur-ws.org/Vol-2864/paper12.pdf)
+
+[3] Pre-locate net for object detection in high-resolution images [Paper](https://www.sciencedirect.com/science/article/pii/S1000936121003940)
+
+

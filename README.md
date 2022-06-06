@@ -1,5 +1,5 @@
 # Object-Detection
-##**Object Detection Methods**
+##Object Detection Methods
 
 [1] RCNN [PDF](https://arxiv.org/abs/1311.2524)
 
@@ -13,7 +13,7 @@
 
 [6] YOLO [PDF](https://arxiv.org/abs/1506.02640)
 
-##**Underwater Mine-like Object Detection**
+##Underwater Mine-like Object Detection
 
 [1] An Underwater Taarget Detection system for Elecctro optical Imagery Data [Paper](https://ieeexplore.ieee.org/iel5/5412664/5422059/05422221.pdf?casa_token=CaNO_4hVYekAAAAA:Sp5o5ubr-oZgZ5jMIFG_eOkiTpLmqfb7lQSuujAdBpezqvJqwiH3m-bp8YWhzdsS3hZVs3ofaQc)
 
@@ -23,7 +23,7 @@
 
 [4] Mine-like Object Sensing in Sonar Imagery with a compact Deep LEarning architecture for scarce data [Paper](https://ieeexplore.ieee.org/abstract/document/8945982)
 
-##**Object Detection in High-resolution images**
+##Object Detection in High-resolution images
 
 [1] Fast and accurate object detection in high resolution 4K and 8K video using GPUs [PDF](https://users.ece.cmu.edu/~franzf/papers/hpec_2018_vr.pdf)
 

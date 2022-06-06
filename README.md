@@ -21,7 +21,7 @@
 
 [3] Deep gabor Neural Network for Automatic Detection of Mine-like objects in Sonar Imagery [Paper](https://ieeexplore.ieee.org/iel7/6287639/8948470/09095329.pdf)
 
-[4] Mine-like Object Sensing in Sonar Imagery with a compact Deep LEarning architecture for scarce data [Paper](https://ieeexplore.ieee.org/abstract/document/8945982)
+[4] Mine-like Object Sensing in Sonar Imagery with a compact Deep Learning architecture for scarce data [Paper](https://ieeexplore.ieee.org/abstract/document/8945982)
 
 ## Object Detection in High-resolution images
 

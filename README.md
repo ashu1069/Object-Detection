@@ -31,7 +31,7 @@
 
 [3] Pre-locate net for object detection in high-resolution images [Paper](https://www.sciencedirect.com/science/article/pii/S1000936121003940)
 
-[4] Dynamic Zoom-in Network for Fast Object Detection in Large Images [PDF](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a508d19a-9042-4965-936e-769e30e0647a/Gao_Dynamic_Zoom-In_Network_CVPR_2018_paper.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220606%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220606T111133Z&X-Amz-Expires=86400&X-Amz-Signature=90654fd67b114dfb03b36b7b6ad610e62b89eb9803e22ade5353d3390c1083c1&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Gao_Dynamic_Zoom-In_Network_CVPR_2018_paper.pdf%22&x-id=GetObject)
+[4] Dynamic Zoom-in Network for Fast Object Detection in Large Images [PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Gao_Dynamic_Zoom-In_Network_CVPR_2018_paper.pdf)
 
 [5] Object Detection in Very High-Resolution Aerial Images Using One-Stage Densely Connected Feature Pyramid Network [PDF](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b9ef5789-b165-4781-9492-caa2840b114b/sensors-18-03341-v2.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220606%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220606T111246Z&X-Amz-Expires=86400&X-Amz-Signature=ebd90ac310727322092c3aac7fa136fbf32169c472a29c7909bb9743c304dee5&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22sensors-18-03341-v2.pdf%22&x-id=GetObject)
 

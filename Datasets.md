@@ -6,6 +6,12 @@
 
 [3] Visual Cognitive System Library [Link1](https://www2.vicos.si/Downloads/LUIS34) [Link2](https://www2.vicos.si/Downloads/DUIS131) [Link3](https://www2.vicos.si/Downloads/GUIS107) [Link4](https://www2.vicos.si/Downloads/DFGTSD)
 
-[4] 
+[4] Open Aerial Map [Link](https://map.openaerialmap.org/#/-18.45703125,18.47960905583197,3?_k=tvz89h)
+
+[5] Open Street Map [Link](https://wiki.openstreetmap.org/wiki/Planet.osm)
+
+[6] xBD Dataset [Link](https://xview2.org/dataset)
+
+[7] 
 
 

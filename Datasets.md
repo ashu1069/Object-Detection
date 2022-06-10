@@ -12,6 +12,8 @@
 
 [6] xBD Dataset [Link](https://xview2.org/dataset)
 
-[7] 
+[7] HRSID Dataset [Download](https://drive.google.com/file/d/1NY3ovgc-woDlNoQdyqzRB3t9McOBH5Ms/view) or [Repository](https://github.com/chaozhong2010/HRSID)
+
+
 
 

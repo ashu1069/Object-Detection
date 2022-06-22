@@ -18,4 +18,5 @@
 
 [9] Visdrone Dataset [Link](http://aiskyeye.com/download/object-detection-2/)
 
+[10] XView Challenge Dataset [Link](https://challenge.xviewdataset.org/download-links)
 

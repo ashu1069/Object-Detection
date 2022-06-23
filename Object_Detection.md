@@ -31,9 +31,18 @@
 
 [3] Pre-locate net for object detection in high-resolution images [Paper](https://www.sciencedirect.com/science/article/pii/S1000936121003940)
 
+
 [4] Dynamic Zoom-in Network for Fast Object Detection in Large Images [PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Gao_Dynamic_Zoom-In_Network_CVPR_2018_paper.pdf)
 
 [5] Object Detection in Very High-Resolution Aerial Images Using One-Stage Densely Connected Feature Pyramid Network [PDF](https://www.mdpi.com/1424-8220/18/10/3341/pdf)
+
+[6] Clustered Object Detection in Aerial Images [Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Clustered_Object_Detection_in_Aerial_Images_ICCV_2019_paper.pdf)
+
+# CVPR 2022
+
+[1] Speed up Object Detection on Gigapixel-level Images with Patch Arrangement [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Fan_Speed_Up_Object_Detection_on_Gigapixel-Level_Images_With_Patch_Arrangement_CVPR_2022_paper.pdf)
+
+[2] StyleSwin: Transformer-Based GAN for High-Resolution Image Generation [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_StyleSwin_Transformer-Based_GAN_for_High-Resolution_Image_Generation_CVPR_2022_paper.html)
 
 
 

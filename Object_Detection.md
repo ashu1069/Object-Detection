@@ -44,6 +44,13 @@
 
 [2] StyleSwin: Transformer-Based GAN for High-Resolution Image Generation [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_StyleSwin_Transformer-Based_GAN_for_High-Resolution_Image_Generation_CVPR_2022_paper.html)
 
+# Vision Transformers for Object Detection
+
+[1] Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet [Paper](https://arxiv.org/pdf/1904.11491.pdf) [Code](https://github.com/yitu-opensource/T2T-ViT)
+
+[2] UP-DETR: Unsupervised Pre-training for Object Detection with Transformers [Paper](https://arxiv.org/abs/2011.09094.pdf)  [Code](https://github.com/dddzg/up-detr)
+
+
 
 
 
